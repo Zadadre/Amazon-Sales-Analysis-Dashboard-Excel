@@ -34,4 +34,4 @@ For any questions or feedback, feel free to reach out:
 - **Email:** edeokohdabruth@gmail.com
 - **LinkedIn:** [Daberechi Edeokoh](https://www.linkedin.com/in/daberechi-edeokoh-03b908205)
 
-⚡ Fun Fact: The dataset used for this analysis contains over [insert number] rows of sales data!
+⚡ Fun Fact: The dataset used for this analysis contains over 9,500 rows of sales data!
